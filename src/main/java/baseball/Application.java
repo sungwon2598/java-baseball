@@ -5,7 +5,7 @@ public class Application {
         // TODO: 프로그램 구현
         System.out.println("sfs");
         System.out.println("sfs");
-        System.out.println("Ssss");
+        System.out.println("Saaaasss");
         System.out.println("ww2tgwgs");
     }
 }
