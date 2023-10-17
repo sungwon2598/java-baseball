@@ -6,5 +6,6 @@ public class Application {
         System.out.println("sfs");
         System.out.println("sfs");
         System.out.println("Ssss");
+        System.out.println("ww2tgwgs");
     }
 }
